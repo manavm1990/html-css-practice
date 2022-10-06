@@ -1,8 +1,7 @@
 {
   "recommendations": [
-    "aaron-bond.better-comments",
-    "bradlc.vscode-tailwindcss",
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "webhint.vscode-webhint"
   ]
 }

@@ -1,9 +1,7 @@
-# Vite + TailwindCSS (no framework)
+# HTML-CSS Practice
 
-`npm start` will...start the `localhost:3000` server.
+This includes webhint, stylelint, and prettier.
 
-There is some opinionated/standard stuff included for ESLint and Prettier. These are wired up to do some automatic things in VS Code via [`settings.json`](./.vscode/settings.json). For example, as soon as you leave the file it will auto save, format and even fix linting stuff for you. If that's too much, you may want to reconfigure it.
+VS Code settings are included to streamline the process. Stylelint extension and prettier are there too for real time feedback. Because of the settings, Prettier will auto-format whenever you move out of the file.
 
-Finally, there are a few [recommended extensions](./.vscode/extensions.json). You'll probably want these.
-
-Hope it helps. Give it a ⭐, will ya? 🤓
+Run `npm install` to install the dependencies. Then, run `npm start` to start the server.
