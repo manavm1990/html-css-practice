@@ -1,3 +1,3 @@
 {
-  "extends": ["stylelint-config-standard", "stylelint-config-prettier"]w
+  "extends": ["stylelint-config-standard", "stylelint-config-prettier"]
 }
